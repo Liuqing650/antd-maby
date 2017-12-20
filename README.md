@@ -4,6 +4,13 @@
   基于 [Ant Design](https://ant.design/components/checkbox-cn/) 创建的简单项目.
   该模板目前只用于测试学习
 
+  ## 开始项目
+  ```bash
+  1. npm install
+  2. npm start
+  3. [let's beigin](https://ant.design/docs/react/practical-projects-cn)
+  ```
+
   ## 目录树
 
 ```bash
