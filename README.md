@@ -8,7 +8,7 @@
   ```bash
   1. npm install
   2. npm start
-  3. [let's beigin](https://ant.design/docs/react/practical-projects-cn)
+  3. [开始编程](https://ant.design/docs/react/practical-projects-cn)
   ```
 
   ## 目录树
